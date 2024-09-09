@@ -1,3 +1,18 @@
+# Ignore virtual environment directories
 venv/
 env/
 .venv/
+
+# MacOS hidden files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+# (yes, this ignores the test log files I'm using, but any ED log file should do)
+*.log

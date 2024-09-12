@@ -14,5 +14,5 @@ __pycache__/
 *.pyc
 
 # Logs
-# (yes, this ignores the test log files I'm using, but any ED log file should do)
+# (ignoring Journal files so that my commander ID isn't included)
 *.log

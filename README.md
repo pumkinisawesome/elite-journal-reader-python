@@ -1,5 +1,7 @@
 # Elite Journal Reader - Python
 
+[![wakatime](https://wakatime.com/badge/user/d55b19d4-f637-4b62-bbf5-e52fffe9abad/project/607b6245-a9fa-4ec9-8d69-fcfffa922222.svg)](https://wakatime.com/badge/user/d55b19d4-f637-4b62-bbf5-e52fffe9abad/project/607b6245-a9fa-4ec9-8d69-fcfffa922222)
+
 This project is an experiment into reading journal files from Elite Dangerous,
 displaying relevent information, and live-updating as the journal file is
 modified during play.
